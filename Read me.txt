@@ -1,0 +1,6 @@
+Assalam o Alaikum!!!
+-> I have created a simple & very basic database queries for beginners on the the topic of 
+   students portal, but with only one to two records.
+-> I hope that when you do it yourself, then you will be able to create your own database 
+   queries with a bunch of records.
+-> So Lets get started....:)
